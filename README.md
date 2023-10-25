@@ -646,3 +646,6 @@ En conseqüència, el desenvolupament basat en tronc és un activador clau de la
 - [The Official GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)
 - [Pro Git. Llibre en format electrònic](https://git-scm.com/book/es/v2)
 - [Learning Git branching](https://learngitbranching.js.org/?locale=es_ES)
+
+
+Codig
